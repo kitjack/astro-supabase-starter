@@ -15,6 +15,8 @@ If you click "Deploy to Netlify" button, it will create a new repo for you that 
 ## Astro Commands
 
 All commands are run from the root of the project, from a terminal:
+- (optional) [free ai generator](https://aifreeforever.com/) 
+
 
 | Command                   | Action                                           |
 | :------------------------ | :----------------------------------------------- |
